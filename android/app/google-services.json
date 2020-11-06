@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96370069653",
+    "firebase_url": "https://examenfinaldw-119a6.firebaseio.com",
+    "project_id": "examenfinaldw-119a6",
+    "storage_bucket": "examenfinaldw-119a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96370069653:android:9692354b48feb4a14dcb9c",
+        "android_client_info": {
+          "package_name": "com.example.appblog_examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96370069653-785grf30k5jr5gqo85n0k0g44urjnbeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGSa4o92iThjaf_tCMmKybWa1GCvAjIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96370069653-785grf30k5jr5gqo85n0k0g44urjnbeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
